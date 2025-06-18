@@ -1,0 +1,6 @@
+chromadb
+langchain
+torch
+InstructorEmbedding
+sentence_transformers
+pandas
